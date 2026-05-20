@@ -34,6 +34,4 @@ music-player/
 2. Extract ZIP file
 3. Open index.html in browser
 
-## 👨‍💻 Author
 
-Nayyab Gul
